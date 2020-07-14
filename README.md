@@ -2,4 +2,4 @@
 Aplikacja stworzona jako element pracy magisterskiej, Autor: Dominik Mazurkiewicz
 
 
-![alt text](https://github.com/domingooo/rejestrator-arduino/schemat.png?raw=true)
+![schemat](https://github.com/domingooo/praca-dyplomowa-arduino/blob/master/schemat.png)
